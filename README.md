@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedha--degave-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedha-degave-b43008342)
 [![GitHub](https://img.shields.io/badge/GitHub-vedsss21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vedsss21)
-[![Email](https://img.shields.io/badge/Email-vedhadegave%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:vedadegave504@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vedadegave504@gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:vedadegave504@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Nanded%2C%20Maharashtra%2C%20India-8b6f47?style=flat-square)](.)
 
 </div>
@@ -18,7 +18,7 @@ B.Tech student in **Computer Technology** at Yeshwantrao Chavan College of Engin
 - 🎓 B.Tech · Computer Technology · YCCE Nagpur *(2024 – Present)*
 - 🏆 Runner-up — **Lady Adda National Hackathon** *(Dec 2025)*
 - 🔬 Major Project: **Assessment of Written Communication using Gen AI** *(In Progress)*
-- 📫 Reach me at **vedhadegave@gmail.com**
+- 📫 Reach me at **vedadegave504@gmail.com**
 
 ---
 
